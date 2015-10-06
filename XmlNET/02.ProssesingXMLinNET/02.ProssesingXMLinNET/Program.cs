@@ -10,6 +10,7 @@ namespace _02.ProssesingXMLinNET
     {
         static void Main(string[] args)
         {
+                
         }
     }
 }
